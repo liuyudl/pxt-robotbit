@@ -8,3 +8,12 @@ deploy:
 
 test:
 	pxt test
+
+test:
+	pxt test
+
+test:
+	pxt test
+
+test:
+	pxt test
